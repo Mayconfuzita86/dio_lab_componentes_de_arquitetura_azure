@@ -40,8 +40,9 @@ Durante o laboratório prático no Portal do Azure, foram aplicados conceitos fu
 ### Criação de Grupo de Recursos (Resource Group)
 Contêiner lógico que agrupa recursos relacionados de uma solução no Azure, facilitando o gerenciamento do ciclo de vida (implantação, atualização e exclusão conjunta).
 
-> 📸 **Evidência do Laboratório:**
+
 > ![Criação do Grupo de Recursos](./images/grupos-azure.png)
+> 📸  *Fonte: [Documentação Oficial do Microsoft Azure](https://learn.microsoft.com/pt-br/azure/)*
 
 ### Marcações (Tags) e Gestão de Custos
 As **Tags** são pares de `chave:valor` atribuídos aos recursos ou grupos de recursos (ex.: `Ambiente: Producao`, `CentroDeCusto: TI`).
